@@ -10,11 +10,11 @@ This project presents a detailed technical specification documenting YouTube's f
 
 The analysis covers:
 
-Account & Authentication - Registration, login, password management
-Video Playback & Player Controls - Playback functionality and user controls
-Search & Discovery - Search mechanisms and content recommendation
-Video Upload & Management - Upload process and content management
-Social Features & Interactions - Comments, likes, subscriptions, sharing
-Playlists & Library Management - Playlist creation and organization
-Non-Functional Requirements - Security, usability, performance, reliability
-Exceptional Cases - Edge cases and error handling
+- Account & Authentication - Registration, login, password management.
+- Video Playback & Player Controls - Playback functionality and user controls.
+- Search & Discovery - Search mechanisms and content recommendation.
+- Video Upload & Management - Upload process and content management.
+- Social Features & Interactions - Comments, likes, subscriptions, sharing.
+- Playlists & Library Management - Playlist creation and organization.
+- Non-Functional Requirements - Security, usability, performance, reliability.
+- Exceptional Cases - Edge cases and error handling.
