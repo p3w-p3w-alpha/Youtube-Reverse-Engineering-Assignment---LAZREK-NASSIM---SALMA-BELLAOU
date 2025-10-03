@@ -4,7 +4,7 @@
 YouTube Platform - Reverse Engineering Documentation
 A comprehensive requirements analysis document for the YouTube platform, created through systematic reverse engineering and observation. 
 - Overview:
-This project presents a detailed technical specification documenting YouTube's functional and non-functional requirements across 8 major categories. The document is formatted in professional LaTeX with an aesthetically pleasing design.
+This project presents a detailed technical specification documenting YouTube's functional and non-functional requirements across 8 major categories. 
 - Document Categories:
 
 
